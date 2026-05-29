@@ -13,7 +13,7 @@
 
 I didn't start out wanting to build software... I started out wanting to understand how things work — specifically in production. That curiosity led me from studying computer science in Chennai to publishing research in IEEE journals, to graduating with my **Master's in Computer Science from Indiana University Bloomington** in May 2026.
 
-My most recent project says a lot about how I think. I built a tourist chatbot for Bloomington, noticed it wasn't good enough, and rebuilt it properly. What began as a basic pipeline became a **6-layer RAG system** — hybrid BM25 and vector search, cross-encoder reranking, LangGraph agentic routing, automated RAGAS evaluation with a CI quality gate, and a live GCP deployment. Anyone can ship a chatbot in a weekend. I wanted to build something that actually reflects how these systems work in production — architected to scale, evaluated rigorously, and deployed end to end.
+My most recent project says a lot about how I think. I built a tourist chatbot for Bloomington, noticed it wasn't good enough, and rebuilt it properly. What began as a basic pipeline became a **6-layer RAG system** ; hybrid BM25 and vector search, cross-encoder reranking, LangGraph agentic routing, automated RAGAS evaluation with a CI quality gate, and a live GCP deployment. Anyone can ship a chatbot in a weekend. I wanted to build something that actually reflects how these systems work in production; architected to scale, evaluated rigorously, and deployed end to end.
 
 That same instinct shows up across everything I build. I've provisioned AWS infrastructure with Terraform, containerized applications with Docker, and shipped a **full-stack AI summarizer powered by Claude API** that's live right now.
 
