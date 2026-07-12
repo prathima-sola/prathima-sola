@@ -9,7 +9,7 @@ I am finishing my MS in Computer Science at Indiana University Bloomington and l
 | Project | What it proves | Links |
 | --- | --- | --- |
 | Bloomington Tourist Assistant | RAG architecture, retrieval evals, LangGraph routing, GCP Cloud Run | [Live](https://bloomington-rag-473936713859.us-central1.run.app/) · [Repo](https://github.com/prathima-sola/bloomington-rag) |
-| Transaction Integrity Engine | Next.js app architecture, wallet auth, server-side transaction validation, Supabase records | [Live](https://chadwallet-omega.vercel.app/) · [Repo](https://github.com/prathima-sola/chadwallet) |
+| ProofLedger | Next.js app architecture, wallet auth, server-side transaction validation, Supabase records | [Live](https://chadwallet-omega.vercel.app/) · [Repo](https://github.com/prathima-sola/chadwallet) |
 | AI Text Summarizer | React + Node/Express, Claude API, Docker, Vercel/Render deployment | [Live](https://ai-summarizer-app-zeta.vercel.app) · [Repo](https://github.com/prathima-sola/ai-summarizer-app) |
 
 ## Technical focus
